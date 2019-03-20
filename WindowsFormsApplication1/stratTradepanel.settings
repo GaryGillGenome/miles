@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1" GeneratedClassName="stratTradepanel">
+  <Profiles />
+  <Settings>
+    <Setting Name="source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\source</Value>
+    </Setting>
+    <Setting Name="dest" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\dest</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
